@@ -1,0 +1,30 @@
+{
+  "name": "rebeccaevans.github.io",
+  "version": "1.0.0",
+  "description": "personal portfolio website",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "node-sass": "^4.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RebeccaEvans/rebeccaevans.github.io.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Rebecca Evans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RebeccaEvans/rebeccaevans.github.io/issues"
+  },
+  "homepage": "https://github.com/RebeccaEvans/rebeccaevans.github.io#readme"
+}
